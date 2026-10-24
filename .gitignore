@@ -1,0 +1,11 @@
+# 自动获取/编译的二进制
+bin/ncmdump
+bin/ncm-eventd
+
+# 运行时数据
+logs/
+state/
+
+# 其他
+*.zip
+.DS_Store
